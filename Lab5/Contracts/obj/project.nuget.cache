@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KsuJMkfhmwtTv8X0eBLzHZZ4MI5yK7dojRmT5n0PzGR1vmGS7bPiGNba9/v9H9blfk/jX8CQRn6tgmtYZQIQDw==",
+  "success": true,
+  "projectFilePath": "/home/veronika/veronator3000/src/Lab5/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/veronika/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/home/veronika/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/home/veronika/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/home/veronika/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/home/veronika/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/home/veronika/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/home/veronika/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

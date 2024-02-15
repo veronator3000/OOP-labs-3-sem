@@ -1,0 +1,14 @@
+/home/veronika/veronator3000/src/Lab3/bin/Debug/net7.0/Lab3.deps.json
+/home/veronika/veronator3000/src/Lab3/bin/Debug/net7.0/Lab3.dll
+/home/veronika/veronator3000/src/Lab3/bin/Debug/net7.0/Lab3.pdb
+/home/veronika/veronator3000/src/Lab3/bin/Debug/net7.0/Lab3.xml
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfoInputs.cache
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfo.cs
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.csproj.CoreCompileInputs.cache
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.dll
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/refint/Lab3.dll
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.xml
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.pdb
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/ref/Lab3.dll
+/home/veronika/veronator3000/src/Lab3/obj/Debug/net7.0/Lab3.csproj.AssemblyReference.cache
